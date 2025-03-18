@@ -96,8 +96,9 @@
       background-color: #fff;
     }
   }
-
-    &:hover .card__title {
-      color: #34568b;
-    }
 }
+
+  .card:hover .card__title {
+    color: #34568b;
+  }
+
